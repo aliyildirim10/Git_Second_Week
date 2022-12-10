@@ -3,3 +3,7 @@ starting now
 
 
 added extra info
+
+
+i added these lines from github and then i am gonna fetch it to my local repository and then i am gonna pull 
+
